@@ -1,0 +1,8 @@
+{
+  "verbose": true,
+  "ignore": [],
+  "execMap": {
+    "rb": "js",
+    "pde": "processing --sketch={{pwd}} --run"
+  }
+}
